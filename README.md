@@ -8,12 +8,14 @@ Zustand
 React Hook Form
 React hot Toast
 React Icons
-
+Next-Auth
+bcrypt
 
 ## Dev Dependency
 Typescript
 Eslint
 Prisma
+
 
 ## Database
 Mongodb
